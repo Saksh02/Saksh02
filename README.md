@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Saksh02
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently exploring different fields
 - ⚡ Fun fact: Having same birthday with SRK
 <!---
 Saksh02/Saksh02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
