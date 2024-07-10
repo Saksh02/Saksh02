@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Saksh02
+- # 👋 Hi, I’m Saksham Srivastava
 - 🌱 I’m currently exploring different fields
 - ⚡ Fun fact: Having same birthday with SRK
 <!---
